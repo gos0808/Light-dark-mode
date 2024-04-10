@@ -20,8 +20,11 @@ It's a dynamic website designed to provide a seamless user experience with the c
 To toggle between light and dark modes, click the theme toggle switch located at the top of the page. Your theme preference will be remembered during your next visit.
 
 # Contact
-Olga: gos08.08.23@gmail.com\
-Project link: https://github.com/gos0808/Light-dark-mode 
+Olga: gos08.08.23@gmail.com
+
+Project link: \
+https://github.com/gos0808/Light-dark-mode \
+https://switchingmode.netlify.app
 
 
 # Getting Started with Create React App
